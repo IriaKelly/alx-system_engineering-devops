@@ -1,1 +1,1 @@
-My first readme for Write a script that prints the absolute path name of the current working directory
+My first readme for 0x00-shell_basics
