@@ -1,1 +1,1 @@
-This is my readme for the 0x01. Shell permissions project
+This is my readme for 0x01-shell_permissions
